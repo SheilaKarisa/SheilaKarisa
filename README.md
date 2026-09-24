@@ -20,7 +20,7 @@ I focus on building user-centric dashboards, automating repetitive analytical ta
       
 #### 🚀 What I'm Currently Working On 
 
-- **BigMart Sales Analysis:** Developed a comprehensive sales analysis project using RSQL to uncover retail trends, evaluate product performance, and identify key drivers behind inventory turnover. 
+- **BigMart Sales Analysis:** Developed a comprehensive sales analysis project utilizing SQL queries within R to clean datasets, uncover retail trends, evaluate product performance, and identify key drivers behind inventory turnover. 
 - **E-Commerce Data Warehouse Schema (`bat_commercial_analysis`):** Building a structured transactional database backend, focusing on schema design, optimization, and implementing robust foreign key constraints to ensure complete business data integrity.
 - 
 ### 📚 Currently Learning 
@@ -29,10 +29,13 @@ I focus on building user-centric dashboards, automating repetitive analytical ta
 - **Business Intelligence with Power BI:** Learning data visualization and DAX to build user-centric, interactive dashboards that connect directly to SQL data schemas.
 
 ## 🛠️ Technical Skillset
-Data Analytics & Engineering
-![SQL](https://shields.io)
-![Python](https://shields.io)
-![R](https://shields.io)
+
+#### 📊 Data Analysis & Visualization
+<p>
+  <img src="https://shields.io" alt="SQL Skill Badge">
+  <img src="https://shields.io" alt="Power BI Skill Badge">
+  <img src="https://shields.io" alt="Excel Skill Badge">
+</p>
 
 ### 📊 Business Intelligence & Databases
 ![Power BI](https://shields.io)

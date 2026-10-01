@@ -1,7 +1,7 @@
 ## Hi there, I'm Sheila Karisa 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Data+Analyst+%7C+Business+Intelligence;Turning+Data+into+Actionable+Insights"alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Data+Analyst+%7C+BI+Developer;Turning+Data+into+Actionable+Insights"alt="Typing SVG" />
 </div>
 
 <p align="center">
@@ -21,7 +21,7 @@ I focus on building user-centric dashboards, automating repetitive analytical ta
 #### 🚀 What I'm Currently Working On 
 
 - **BigMart Sales Analysis:** Developed a comprehensive sales analysis project utilizing SQL queries within R to clean datasets, uncover retail trends, evaluate product performance, and identify key drivers behind inventory turnover. 
-- **E-Commerce Data Warehouse Schema (`bat_commercial_analysis`):** Building a structured transactional database backend, focusing on schema design, optimization, and implementing robust foreign key constraints to ensure complete business data integrity.
+- **E-Commerce Commercial Analysis & Fulfillment Operations Audit** Building a structured transactional database backend, focusing on schema design, optimization, and implementing robust foreign key constraints to ensure complete business data integrity.
 - 
 ### 📚 Currently Learning 
 

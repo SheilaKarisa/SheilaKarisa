@@ -20,8 +20,13 @@ I focus on building user-centric dashboards, automating repetitive analytical ta
       
 #### 🚀 What I'm Currently Working On 
 
-- **BigMart Sales Analysis:** Developed a comprehensive sales analysis project utilizing SQL queries within R to clean datasets, uncover retail trends, evaluate product performance, and identify key drivers behind inventory turnover. 
-- **E-Commerce Commercial Analysis & Fulfillment Operations Audit** Building a structured transactional database backend, focusing on schema design, optimization, and implementing robust foreign key constraints to ensure complete business data integrity.
+**E-Commerce Commercial Analysis & Fulfillment Audit**
+  * **Scope:** Conducted an end-to-end commercial performance audit on a 10,000+ transaction dataset (2021–2024) to isolate product revenue drivers, evaluate customer segment profitability, and diagnose the root causes behind a severe **94% H2 revenue contraction**.
+  * **Impact & Method:** Combined financial data reconciliation in **SQL** with interactive category modeling in **Power BI**, linking top-line financial metrics directly to underlying logistics delays and fulfillment bottlenecks.
+
+* **BigMart Retail Sales & Market Performance Analysis**
+  * **Scope:** Built an end-to-end retail commercial pipeline utilizing embedded **SQL (`RSQLite`)** within **R** to clean raw sales datasets, impute missing values, and evaluate product visibility against store revenue drivers.
+  * **Impact & Method:** Engineered analytical features, performed statistical correlation analysis, and deployed an interactive HTML report via **GitHub Pages** to visualize outlet performance across store formats.
 - 
 ### 📚 Currently Learning 
 

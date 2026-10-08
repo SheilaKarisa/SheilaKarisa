@@ -18,7 +18,7 @@ I focus on building user-centric dashboards, automating repetitive analytical ta
 
 ### 🌐 Check out my Portfolio Website: [SheilaKarisa.github.io](https://github.io)
       
-#### 🚀 What I'm Currently Working On 
+#### What I'm Currently Working On 
 
 **E-Commerce Commercial Analysis & Fulfillment Audit**
   * **Scope:** Conducted an end-to-end commercial performance audit on a 10,000+ transaction dataset (2021–2024) to isolate product revenue drivers, evaluate customer segment profitability, and diagnose the root causes behind a severe **94% H2 revenue contraction**.
@@ -27,7 +27,7 @@ I focus on building user-centric dashboards, automating repetitive analytical ta
 * **BigMart Retail Sales & Market Performance Analysis**
   * **Scope:** Built an end-to-end retail commercial pipeline utilizing embedded **SQL (`RSQLite`)** within **R** to clean raw sales datasets, impute missing values, and evaluate product visibility against store revenue drivers.
   * **Impact & Method:** Engineered analytical features, performed statistical correlation analysis, and deployed an interactive HTML report via **GitHub Pages** to visualize outlet performance across store formats.
-- 
+
 ### 📚 Currently Learning 
 
 - **Python for Data Analysis:** Transitioning from data manipulation to scripting with Python, focusing on automating data workflows and leveraging libraries like Pandas for deeper analysis.
